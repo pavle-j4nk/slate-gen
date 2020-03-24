@@ -1,5 +1,5 @@
 # Introduction
-This repository contains source for [slate-gen]()
+This repository contains source for [slate-gen](https://hub.docker.com/r/pavlej/slate-gen)
 docker image which generates documentation using [slate](https://github.com/slatedocs/slate)
 without repository forking.
 
